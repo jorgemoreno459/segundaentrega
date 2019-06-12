@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Juan Diego juan_ospina82141@elpoli.edu.co",
+  "author": "Jorge Moreno",
   "license": "ISC",
   "dependencies": {
     "yargs": "^13.2.4"
